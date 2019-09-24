@@ -1,0 +1,16 @@
+1. A-B/(C*D$E)
+Parentesis:
+$: A-B/(C*DE$)
+*: A-B/(CDE$*)
+/: A-B(CDE$*)/
+-: AB(CDE$*)/-
+Respuesta: ABCDE$*/-
+
+2. ((A+B)*C-(D*E))$(F+G)
+Parentesis interior:
+((AB+)*C-(DE*))$(F+G)
+Parentesis exterior:
+*: (AB+C*-DE*)$(F+G)
++ y -: (AB+C*DE*-)$(FG+)
+$: (AB+C*DE*-)(FG+)$
+Respuesta: AB+C*DE*-FG+$
