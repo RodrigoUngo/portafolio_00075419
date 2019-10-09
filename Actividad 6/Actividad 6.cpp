@@ -1,5 +1,5 @@
 //Roberto Carlos Cruz Espinoza 00210619
-//Rodrigo Antonio Ungo Muñoz 00075419
+//Rodrigo Antonio Ungo MuÃ±oz 00075419
 
 #include <iostream>
 using namespace std;
