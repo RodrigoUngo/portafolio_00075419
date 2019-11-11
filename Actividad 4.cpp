@@ -34,7 +34,7 @@ int main(void)
 			cin >> habitants[j].habitantes;
 			suma += habitants[j].habitantes;
 		}
-		cout << "La suma de la población del continente " << nombre[i].continent << " es: " << suma << endl;
+		cout << "La suma de la poblaciÃ³n del continente " << nombre[i].continent << " es: " << suma << endl;
 		
 	}
 	return 0;
