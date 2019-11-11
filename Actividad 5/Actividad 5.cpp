@@ -1,5 +1,5 @@
-// Rodrigo Antonio Ungo Muñoz 00075419 Sección 03
-//Roberto Carlos Cruz Espinoza 00210619 Sección 03
+// Rodrigo Antonio Ungo MuÃ±oz 00075419 SecciÃ³n 03
+//Roberto Carlos Cruz Espinoza 00210619 SecciÃ³n 03
 
 #include <iostream>
 using namespace std;
